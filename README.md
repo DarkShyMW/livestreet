@@ -1,5 +1,5 @@
-[LiveStreet CMS](http://livestreetcms.ru) - бесплатный блого-социальный движок. Позволяет удобно и быстро создать сообщество с коллективными блогами.
-
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[BronyFurry CMS](https://bronyfurry.com) - Система управления контентом, направленная на социально-блоговые сети.
 ### Текущая версия
 На данный момент релизная версия LS 2.0.1
 
