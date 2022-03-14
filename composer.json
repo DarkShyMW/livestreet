@@ -1,7 +1,7 @@
 {
   "name": "darkshy/livestreet-composer",
-  "description": "LiveStreet CMS COMPOSER!"
-  "license": "AttributionNonCommercialShareAlike"
+  "description": "LiveStreet CMS COMPOSER!",
+  "license": "MIT",
   "authors": [
   {
     "name": "Dark Shy",
