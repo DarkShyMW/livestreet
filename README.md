@@ -1,4 +1,5 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bronyfurry.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DarkShyMW/livestreet)
 
 [BronyFurry CMS](https://bronyfurry.com) - Система управления контентом, направленная на социально-блоговые сети.
 ### Текущая версия
