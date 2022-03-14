@@ -1,0 +1,12 @@
+{
+  "name": "darkshy/livestreet-composer",
+  "description": "LiveStreet CMS COMPOSER!"
+  "license": "Attribution-NonCommercial-ShareAlike"
+  "authors": [
+  {
+    "name": "Dark Shy",
+    "email": "admin@bronyfurry.com"
+  }
+],
+"minimum-stability": "dev"
+}
