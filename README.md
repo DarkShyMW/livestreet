@@ -1,4 +1,5 @@
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bronyfurry.com/)
+
 [BronyFurry CMS](https://bronyfurry.com) - Система управления контентом, направленная на социально-блоговые сети.
 ### Текущая версия
 На данный момент релизная версия LS 2.0.1
