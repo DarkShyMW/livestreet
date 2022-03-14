@@ -1,6 +1,6 @@
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bronyfurry.com/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DarkShyMW/livestreet)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DarkShyMW/livestreet)
+[![Language](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 [BronyFurry CMS](https://bronyfurry.com) - Система управления контентом, направленная на социально-блоговые сети.
 ### Текущая версия
 На данный момент релизная версия LS 2.0.1
@@ -12,14 +12,3 @@
 * [Сайт сообщества](http://livestreet.ru)
 * [Каталог плагинов и шаблонов](https://catalog.livestreetcms.com/)
 
-### Лицензия
-
-LiveStreet - open-source проект под лицензией [GPL-2.0](http://opensource.org/licenses/GPL-2.0).
-
-
-
-Readme
--------------
-
-*   [English README](https://github.com/livestreet/livestreet/blob/master/Readme.EN.txt)
-*   [Russian README](https://github.com/livestreet/livestreet/blob/master/Readme.RU.txt)
